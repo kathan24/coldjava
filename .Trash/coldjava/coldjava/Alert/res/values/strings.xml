@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alert</string>
+    <string name="action_settings">Settings</string>
+    <string name="startService">Start Sense</string>
+    <string name="stopService">Stop Sense</string>
+    <string name="title_activity_user_input">Alert</string>
+    <string name="call_phone_number">Enter Phone number to Call</string>
+    <string name="number_1">Number :</string>
+	<string name="number_2">Number :</string>
+	<string name="text_phone_number">Enter Phone number to Text</string>
+	<string name="number">Number :</string>
+	<string name="submit">Submit</string>
+	<string name="reset">Reset</string>
+</resources>
